@@ -4,7 +4,7 @@
 
 "@adraffy/ens-normalize@1.10.0":
   version "1.10.0"
-  resolved "https://registry.yarnpkg.com/@adraffy/ens-normalize/-/ens-normalize-1.10.0.tgz#d2a39395c587e092d77cbbc80acf956a54f38bf7"
+  resolved "https://registry.yarnpkg.com/@adraffy/ens-normalize/-/ens-normalize-1#de7830f5c4ed68459ec841f804120aa1d3b31c72bd4d09f81eba4bcbce8711bf
   integrity sha512-nA9XHtlAkYfJxY7bce8DcN7eKxWWCWkU+1GR9d+U6MbNpfwQp8TI7vqOsBsMcHoT4mBu2kypKoSKnghEzOOq5Q==
 
 "@alloc/quick-lru@^5.2.0":
